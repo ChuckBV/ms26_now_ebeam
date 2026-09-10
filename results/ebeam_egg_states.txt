@@ -1,0 +1,14 @@
+# ebeam stats
+
+## Oviposition, run:sex
+ - f1: Kruskal-Wallis chi-squared = 17.89, df = 4, P = 0.002
+ - m1: Kruskal-Wallis chi-squared = 6.24, df = 4, P = 0.182
+ - f2: Kruskal-Wallis chi-squared = 17.89, df = 3, P = 0.141
+ - m2:  Kruskal-Wallis chi-squared = 1.0143, df = 3, p-value = 0.7978
+ 
+## Pupae-larvae, non-zero dose [dose (>0/n()),... [lowest 0 dose]
+ - f1: 0 (13/15), 5 (2/8) [175]
+ - f2: 5 (11/18), 175 (1/8) [210]
+
+ - m1: 0 (16/23), 5 (8/16), 175 (3/14), 210 (2/23) [420]
+ - m2:  5 (5/14), 175 (1/15), 210 (2/14)  [310]
